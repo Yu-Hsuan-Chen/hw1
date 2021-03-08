@@ -1,6 +1,7 @@
 (1) how to setup and run your program 
 
-
+1. git clone my github repo, containing hw1.py, readme, and 106030029.csv
+2. run hw.py
 
 (2) what are the results
 
